@@ -186,7 +186,7 @@ body{
     flex-direction: column; 
 }
 .container,header{
-    height: 550px;
+    height: 600px;
    flex: auto;
    padding-bottom: 20px;
 }
