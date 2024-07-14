@@ -113,6 +113,7 @@ nav h2, li a{
     justify-content: space-evenly;
     align-items: center;
     row-gap: 20px;
+    width: 200px;
  }
 .badge{
     width:  150px;
