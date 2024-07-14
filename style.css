@@ -60,8 +60,7 @@ nav h2, li a{
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    flex: 1;
-    
+    flex: 1;    
  }   
  .cover-actions h1, .cover-actions p, .cover-actions button{
     margin-bottom: 10px;
@@ -186,7 +185,7 @@ body{
     flex-direction: column; 
 }
 .container,header{
-    height: 700px;
+    height: 550px;
    flex: auto;
    padding-bottom: 20px;
 }
